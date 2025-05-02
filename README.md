@@ -10,3 +10,17 @@ NextLevel Food is a platform for food enthusiasts to share their favorite recipe
 - **Responsive Design**: A beautiful and responsive UI for a better user experience.
 
 ## Project Structure
+
+
+## Prerequisites
+
+- Node.js version 18 or higher
+- SQLite
+
+## Installation and Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
