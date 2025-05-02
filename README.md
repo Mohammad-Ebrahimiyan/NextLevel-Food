@@ -25,4 +25,26 @@ NextLevel Food is a platform for food enthusiasts to share their favorite recipe
    git clone <repository-url>
    cd <repository-folder>
 
+### Run
+
+2. Install dependencies
+
+```bash
+  npm install
+```
+
+3. Initialize the database
+
+```bash
+  node initdb.js
+```
+
+4. Start the server
+
+```bash
+  npm run dev
+```
+5. Open the application in your browser at:
+
+
    
