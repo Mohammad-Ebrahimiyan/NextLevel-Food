@@ -46,5 +46,8 @@ NextLevel Food is a platform for food enthusiasts to share their favorite recipe
 ```
 5. Open the application in your browser at:
 
+```bash
+  [npm run dev](http://localhost:3000)
+```
 
    
