@@ -1,0 +1,12 @@
+# NextLevel Food
+
+NextLevel Food is a platform for food enthusiasts to share their favorite recipes and enjoy recipes shared by others. This project is built using **Next.js** and includes features like image uploads, data management with SQLite, and a beautiful user interface.
+
+## Features
+
+- **Share Recipes**: Users can share their own recipes with others.
+- **View Recipes**: Browse recipes shared by other users.
+- **Image Uploads**: Users can upload images of their dishes.
+- **Responsive Design**: A beautiful and responsive UI for a better user experience.
+
+## Project Structure
